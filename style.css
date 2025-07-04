@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    align-items: :center;
+}
+
+.input-section{
+    margin-bottom:20px;
+}
+
+input{
+    padding: 8px;
+    width: 200px;
+}
+
+.Icons{
+    padding:10px 10px;
+    margin-left:8px;
+    display:inline-block;
+}
+
+.Taskdiv{
+    background-color:aquamarine;
+    padding:10px;
+    justify-content: space-between;
+    align-items: center;
+}
